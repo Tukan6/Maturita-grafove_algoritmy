@@ -84,7 +84,7 @@ Příklad:
 1 2 -2
 2 3 3
 ```
-## Vysvětlení:
+### Vysvětlení:
 4 – celkový počet vrcholů grafu (V = 4)
 
 Každý další řádek reprezentuje jednu orientovanou hranu:
