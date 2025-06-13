@@ -74,12 +74,27 @@ Graf je zadán jako seznam hran ve formátu:
 
 Příklad:
 ```txt
+<počet_vrcholů>
+<od> <do> <váha>
+<od> <do> <váha>
+
 4
 0 1 4
 0 2 5
 1 2 -2
 2 3 3
 ```
+## Vysvětlení:
+4 – celkový počet vrcholů grafu (V = 4)
+
+Každý další řádek reprezentuje jednu orientovanou hranu:
+
+0 1 4 znamená hrana z vrcholu 0 do vrcholu 1 s váhou 4
+
+1 2 -2 znamená hrana z 1 do 2 s váhou -2
+
+Váha vyjadřuje náklad na přechod mezi vrcholy – například vzdálenost, čas, nebo jinou „cenu“.
+
 ###  Výstup
 Nejkratší vzdálenosti z počátečního vrcholu
 
