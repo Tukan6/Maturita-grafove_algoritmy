@@ -80,6 +80,6 @@ Příklad:
 1 2 -2
 2 3 3
 
-📤 Výstup
+### 📤 Výstup
 Nejkratší vzdálenosti z počátečního vrcholu
 Hlásí, pokud graf obsahuje záporný cyklus
