@@ -67,7 +67,7 @@ Graf `G = (V, E)`, kde:
 
 ###  Použitý algoritmus: Bellman-Ford  
 - Jazyk: **C#**
-- Umístění kódu: [`Program.cs`](./Program.cs)
+- Umístění kódu: [`Program.cs`](./Code/Program.cs)
 
 ###  Vstup
 Graf je zadán jako seznam hran ve formátu:

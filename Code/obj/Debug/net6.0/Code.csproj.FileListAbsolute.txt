@@ -1,0 +1,15 @@
+C:\Users\Doležal Šimon\Doležal\ALM\Maturita-grafove_algoritmy\Code\bin\Debug\net6.0\Code.exe
+C:\Users\Doležal Šimon\Doležal\ALM\Maturita-grafove_algoritmy\Code\bin\Debug\net6.0\Code.deps.json
+C:\Users\Doležal Šimon\Doležal\ALM\Maturita-grafove_algoritmy\Code\bin\Debug\net6.0\Code.runtimeconfig.json
+C:\Users\Doležal Šimon\Doležal\ALM\Maturita-grafove_algoritmy\Code\bin\Debug\net6.0\Code.dll
+C:\Users\Doležal Šimon\Doležal\ALM\Maturita-grafove_algoritmy\Code\bin\Debug\net6.0\Code.pdb
+C:\Users\Doležal Šimon\Doležal\ALM\Maturita-grafove_algoritmy\Code\obj\Debug\net6.0\Code.csproj.AssemblyReference.cache
+C:\Users\Doležal Šimon\Doležal\ALM\Maturita-grafove_algoritmy\Code\obj\Debug\net6.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doležal Šimon\Doležal\ALM\Maturita-grafove_algoritmy\Code\obj\Debug\net6.0\Code.AssemblyInfoInputs.cache
+C:\Users\Doležal Šimon\Doležal\ALM\Maturita-grafove_algoritmy\Code\obj\Debug\net6.0\Code.AssemblyInfo.cs
+C:\Users\Doležal Šimon\Doležal\ALM\Maturita-grafove_algoritmy\Code\obj\Debug\net6.0\Code.csproj.CoreCompileInputs.cache
+C:\Users\Doležal Šimon\Doležal\ALM\Maturita-grafove_algoritmy\Code\obj\Debug\net6.0\Code.dll
+C:\Users\Doležal Šimon\Doležal\ALM\Maturita-grafove_algoritmy\Code\obj\Debug\net6.0\refint\Code.dll
+C:\Users\Doležal Šimon\Doležal\ALM\Maturita-grafove_algoritmy\Code\obj\Debug\net6.0\Code.pdb
+C:\Users\Doležal Šimon\Doležal\ALM\Maturita-grafove_algoritmy\Code\obj\Debug\net6.0\Code.genruntimeconfig.cache
+C:\Users\Doležal Šimon\Doležal\ALM\Maturita-grafove_algoritmy\Code\obj\Debug\net6.0\ref\Code.dll
