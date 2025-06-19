@@ -84,6 +84,9 @@ Příklad:
 1 2 -2
 2 3 3
 ```
+
+![Orientovaný graf](img/graf.png)
+
 ### Vysvětlení:
 4 – celkový počet vrcholů grafu (V = 4)
 
